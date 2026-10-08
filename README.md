@@ -23,14 +23,14 @@ Users have the option to display a basic board in plain text or a fancy board wi
 
 ### Basic Board
 
-![Basic Board](https://github.com/m4thayus/module-one-final-project-guidelines-dc-web-051319/blob/master/img/basic.png?raw=true)
+![Basic Board](img/basic.png)
 
 ### Fancy Board
 
-![Fancy Board](https://github.com/m4thayus/module-one-final-project-guidelines-dc-web-051319/blob/master/img/fancy.png?raw=true)
+![Fancy Board](img/fancy.png)
 
 ## Database Structure
 
 There are 5 models. Users and Restaurants have many-to-many relationship with Visits as their join table. Restaurants and Boards have a many-to-many relationship with Squares as their join table.
 
-![Models](https://github.com/m4thayus/module-one-final-project-guidelines-dc-web-051319/blob/master/img/model.png?raw=true)
+![Models](img/model.png)
